@@ -1,0 +1,3 @@
+global:
+  namespace: "prd"
+  image: "nginx:latest"
